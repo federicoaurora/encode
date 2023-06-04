@@ -7,3 +7,4 @@ title: ENCODE Project's guidelines
 
 
 [More about these guidelines](about.md)  
+{% include links.md %}
