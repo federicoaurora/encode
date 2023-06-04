@@ -1,3 +1,5 @@
+{% include navigation.html %}
+
 # ENCODE Project's guidelines
 
 ## The ENCODE project
