@@ -2,5 +2,5 @@
 <p>Contact us</p>
 <ul>
     <li>Email: <a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
-    <li>Twitter: <a href="{{ site.twitter }}">{{ site.twitter }}</a></li>
+    <li>Subscribe to the ENCODE mailing list: <a href="{{ site.mailing_list }}">{{ site.mailing_list }}</a></li>
 </ul>
