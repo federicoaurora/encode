@@ -1,5 +1,5 @@
 description: "ENCODE Guidelines"
 email: "federico.aurora@ub.uio.no"
 mailing_list: "https://site.unibo.it/encode/en/agenda/epidoc-workshop/community"
-remote_theme: chrisrhymes/bulma-clean-theme
+theme: bulma-clean-theme
 
