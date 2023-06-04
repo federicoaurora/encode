@@ -1,6 +1,5 @@
 ---
 layout: default
-
 ---
 
 # ENCODE Project's guidelines
